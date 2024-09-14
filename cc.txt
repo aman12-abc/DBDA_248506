@@ -1,2 +1,2 @@
 CLOUD COMPUTING
-It is a 
+Cloud computing is the on-demand access of computing resources—physical servers or virtual servers, data storage, networking capabilities, application development tools, software, AI-powered analytic tools and more—over the internet with pay-per-use pricing.
